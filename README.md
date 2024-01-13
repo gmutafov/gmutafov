@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Georgi Mutafov
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
 
 <!---
 gmutafov/gmutafov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
