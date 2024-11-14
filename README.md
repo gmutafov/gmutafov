@@ -1,8 +1,1 @@
-- 👋 Hi, I’m Georgi Mutafov
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
-
-<!---
-gmutafov/gmutafov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Georgi Mutafov. I am a self-motivated Python Web Development student, confidently working with Python, PostgreSQL and Django Framework, with basic knowlage of HTML, CSS and JS.
